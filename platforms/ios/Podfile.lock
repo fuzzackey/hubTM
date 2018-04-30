@@ -1,0 +1,22 @@
+PODS:
+  - SSSnackbar (0.1.2.4)
+
+DEPENDENCIES:
+  - SSSnackbar (from `https://github.com/EddyVerbruggen/SSSnackbar.git`, tag `0.1.2.4`)
+
+EXTERNAL SOURCES:
+  SSSnackbar:
+    :git: https://github.com/EddyVerbruggen/SSSnackbar.git
+    :tag: 0.1.2.4
+
+CHECKOUT OPTIONS:
+  SSSnackbar:
+    :git: https://github.com/EddyVerbruggen/SSSnackbar.git
+    :tag: 0.1.2.4
+
+SPEC CHECKSUMS:
+  SSSnackbar: df80f41e29c46174d97ddd2f2b548298be4ef862
+
+PODFILE CHECKSUM: daafa9dbcfaebba7e976a1542197b10c25445e93
+
+COCOAPODS: 1.5.0

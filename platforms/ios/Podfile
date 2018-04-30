@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "loginproject" do
+# Begin Podfile - /Users/Fuzzackey/login-project/node_modules/nativescript-snackbar/platforms/ios/Podfile 
+ pod 'SSSnackbar', :git => 'https://github.com/EddyVerbruggen/SSSnackbar.git', :tag => '0.1.2.4' 
+ # End Podfile 
+
+end
